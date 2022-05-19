@@ -1,6 +1,6 @@
 export default{
     "API":{
-        "clientId":"LbbHJNgqSmqiZ9KQINbzz45v-VGS9aKTGsETrdwCoJE",
+        "clientId"://enter your unsplash api access key,
         "url":"https://api.unsplash.com/"
     }
 }
